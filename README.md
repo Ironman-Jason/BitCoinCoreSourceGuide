@@ -5,12 +5,12 @@
 
 # 2PC-type consensus paper link
 ## PBFT
-  http://pmg.csail.mit.edu/papers/osdi99.pdf
-  http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf
-  http://www.cs.utah.edu/~stutsman/cs6963/public/pbft.pdf
+  http://pmg.csail.mit.edu/papers/osdi99.pdf    
+  http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf    
+  http://www.cs.utah.edu/~stutsman/cs6963/public/pbft.pdf    
 ## RAFT
-  https://raft.github.io/raft.pdf
+  https://raft.github.io/raft.pdf    
 ## Paxos
   http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf    
-  https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
-  https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+  https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf    
+  https://lamport.azurewebsites.net/pubs/paxos-simple.pdf    
