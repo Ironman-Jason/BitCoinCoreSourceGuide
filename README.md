@@ -11,6 +11,6 @@
 ## RAFT
   https://raft.github.io/raft.pdf
 ## Paxos
-  http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf
+  http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf    
   https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
   https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
