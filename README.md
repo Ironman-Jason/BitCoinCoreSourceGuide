@@ -7,10 +7,10 @@
 ## PBFT
   http://pmg.csail.mit.edu/papers/osdi99.pdf    
   http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf    
-  [阅读时请自己提出批判性问题，去返推出作者观点。]
+  [阅读时请自己提出批判性问题，去返推出作者观点。]    
   http://www.cs.utah.edu/~stutsman/cs6963/public/pbft.pdf    
 ## RAFT
-  [8010实验室的分布式数据库也用的类似与RAFT的算法，只不过在实现时只满足了80%的RAFT算法]
+  [实验室的分布式数据库也用的类似与RAFT的算法，只不过在实现时只满足了80%的RAFT算法]    
   https://raft.github.io/raft.pdf    
 ## Paxos
   http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf    
