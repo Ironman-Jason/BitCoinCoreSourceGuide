@@ -17,7 +17,7 @@
   [实验室的分布式数据库也用的类似与RAFT的算法，只不过在实现时只满足了80%的RAFT算法]    
   https://raft.github.io/raft.pdf    
 ## Paxos
-  理解Paxos的关键在于proposer不是绝对竞争关系，而是合作关系（或者说需要某种程度上的妥协来达成一致）来达成全局一致性。
+  理解Paxos的关键在于proposer不是绝对竞争关系，而是合作关系（或者说需要某种程度上的妥协来达成一致）来达成全局一致性。    
   http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf    
   https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf    
   https://lamport.azurewebsites.net/pubs/paxos-simple.pdf    
