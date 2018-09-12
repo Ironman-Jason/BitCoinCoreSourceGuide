@@ -21,6 +21,6 @@
   http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf    
   https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf    
   https://lamport.azurewebsites.net/pubs/paxos-simple.pdf    
-  [中文简易版本解释的通俗易懂]
+  [中文简易版本解释的通俗易懂]    
   http://iunknown.iteye.com/blog/2246484?from=message    
   http://www.cnblogs.com/endsock/p/3480093.html
