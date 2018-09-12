@@ -20,7 +20,8 @@
   理解Paxos的关键在于proposer不是绝对竞争关系，而是合作关系（或者说需要某种程度上的妥协来达成一致）来达成全局一致性。    
   http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf    
   https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf    
-  https://lamport.azurewebsites.net/pubs/paxos-simple.pdf    
+  https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+  https://en.wikipedia.org/wiki/Paxos_(computer_science)    
   [中文简易版本解释的通俗易懂]    
   http://iunknown.iteye.com/blog/2246484?from=message    
   http://www.cnblogs.com/endsock/p/3480093.html
