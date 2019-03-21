@@ -7,7 +7,7 @@
 
 共识部分发展主线：分布式系统CAP模型已经被MIT从数学上面论证，区块链共识也很难同时突破3个要素（安全性，性能，可扩展性）。从bitcoin network到ethereum再到EOS目前性能的提升看，每次的提升都伴随着安全上面的牺牲 —— 越发趋于中心化，当然安全可以通过其他因素来约束。个人觉得联盟链落地高效的应用可能性更大，目前公链很难突破性能瓶颈，当然这部分的创新发展也很快，期待闪电网络和更好的算法落地。
 
-# 2PC-type consensus paper link
+# 2PC-style consensus paper link
 ## PBFT
   http://pmg.csail.mit.edu/papers/osdi99.pdf    
   http://www.pmg.csail.mit.edu/papers/bft-tocs.pdf    
